@@ -1,5 +1,10 @@
 <h1>Hi, I'm Devinn! <br/><a href="https://github.com/davinchi73">Programmer</a>, <a href="https://www.linkedin.com/in/devinn-chi">Undergraduate CS Research assistant / Computer Science Preceptor</a></h1>
 
+<h2>👨‍💻 Research Software Development Projects:</h2>
+
+- <b>NSF-REU @ UMN</b>
+  - [NaloxSAVER](https://github.com/davinchi73/NaloxSAVER)
+
 <h2>👨‍💻 Macalester College Software Development Projects:</h2>
 
 - <b>AI / Robotics</b>
